@@ -13,6 +13,8 @@
 		44497804257C3A0E00973837 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44497802257C3A0E00973837 /* Main.storyboard */; };
 		44497806257C3A0F00973837 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44497805257C3A0F00973837 /* Assets.xcassets */; };
 		44497809257C3A0F00973837 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44497807257C3A0F00973837 /* LaunchScreen.storyboard */; };
+		44497812257C3E1B00973837 /* Fact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44497811257C3E1B00973837 /* Fact.swift */; };
+		44497818257C41D100973837 /* FactAlternate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44497817257C41D100973837 /* FactAlternate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		44497805257C3A0F00973837 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44497808257C3A0F00973837 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4449780A257C3A0F00973837 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44497811257C3E1B00973837 /* Fact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fact.swift; sourceTree = "<group>"; };
+		44497817257C41D100973837 /* FactAlternate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactAlternate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			children = (
 				444977FC257C3A0E00973837 /* AppDelegate.swift */,
 				444977FE257C3A0E00973837 /* SceneDelegate.swift */,
+				44497811257C3E1B00973837 /* Fact.swift */,
+				44497817257C41D100973837 /* FactAlternate.swift */,
 				44497800257C3A0E00973837 /* ViewController.swift */,
 				44497802257C3A0E00973837 /* Main.storyboard */,
 				44497805257C3A0F00973837 /* Assets.xcassets */,
@@ -140,6 +146,8 @@
 				44497801257C3A0E00973837 /* ViewController.swift in Sources */,
 				444977FD257C3A0E00973837 /* AppDelegate.swift in Sources */,
 				444977FF257C3A0E00973837 /* SceneDelegate.swift in Sources */,
+				44497818257C41D100973837 /* FactAlternate.swift in Sources */,
+				44497812257C3E1B00973837 /* Fact.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
